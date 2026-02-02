@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhuttan12&show_icons=true&theme=tokyonight" height="175">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhuttan12&layout=compact&theme=tokyonight&langs_count=10" height="175">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nhuttan12&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nhuttan12&layout=compact&theme=tokyonight&langs_count=10" height="180" />
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nhuttan12&theme=react)](https://github.com/nhuttan12/github-readme-activity-graph)
@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎮 Favorite Game - Genshin Impact
-<p align="center"> 
-  <img src="https://wallpapers.com/images/hd/kamisato-ayaka-from-genshin-impact-aesthetic-1lrp6buunabrk6pp.jpg" alt="Genshin Impact" width="400"/> 
-</p>
 -->
+### 🎮 Favorite Game - League of legends
+<p align="center"> 
+  <img src="https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/09/league-of-legends.jpeg?fit=1607%2C895&ssl=1" alt="League of Legends" width="400"/> 
+</p>
