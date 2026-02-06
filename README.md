@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
 
