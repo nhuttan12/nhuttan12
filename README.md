@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ---
 
 -->
-### 🎮 Favorite Game - League of legends
+### 🎮 Favorite Game
 <p align="center"> 
   <img src="https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2021/09/league-of-legends.jpeg?fit=1607%2C895&ssl=1" alt="League of Legends" width="400"/>
   <img src="https://www.riotgames.com/darkroom/1200/1dbd7211e78ce5faa7a8af9d10afad47:2b5979e3922758399ba389561e797919/ps-f2p-val-console-launch-16x9.jpg" alt="Valorant" width="400"/>
