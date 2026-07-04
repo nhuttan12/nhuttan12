@@ -1,12 +1,6 @@
 # Hey there 👋, I'm Pham Nhut Tan!
-- 🎓 I'm a Software Engineering Graduate from Nong Lam University
+- 🎓 I'm a Software Engineering from Nong Lam University
 - 📫 How to reach me: phamnhuttan.9a6.2017@gmail.com
-- 💬 Connect with me: 
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/867948800755523614)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/pham-nhut-tan-573a71258)
-
-
-
 
 <h2 align="center"> 
   <img src="https://media1.tenor.com/m/fd21eoZ9LFkAAAAC/koshi-torako-shikanoko.gif" width="200" height="100%">
