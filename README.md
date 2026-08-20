@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Reach me on <img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="50"></h2>
 <p align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
