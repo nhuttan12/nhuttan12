@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 -->
 ### 🎮 Current Game
 <p align="center"> 
-  <img src="https://cdn.steamstatic.com/apps/dota2/images/dota2_social.jpg" alt="Dota2" width="400"/>
+  <img src="https://cdn.steamstatic.com/apps/dota2/images/dota2_social.jpg" alt="Dota2" width="800"/>
 </p>
